@@ -1,4 +1,6 @@
 # Palo Alto Networks Overview
+- Palo Alto Networks is a global cybersecurity company that provides advanced security solutions to protect networks, data, and users from cyber threats. They offer a wide range of products and services, including: Firewalls, Cloud Security, Endpoint Security, Threat Intelligence.
+
 ## Intro ##
 ### Three Pillars of the Palo Alto Networks Portfolio
 - **Network Security**: Protects networks with firewalls that can prevent threats.
