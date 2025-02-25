@@ -147,4 +147,3 @@ As a new security engineer learning about Palo Alto Networks firewalls, understa
 3. **Learn CLI commands and troubleshoot logs effectively.**
 4. **Study for PCNSA certification** to deepen your understanding.
 
-Would you like help setting up a **Palo Alto lab environment** for hands-on practice? 🚀
