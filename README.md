@@ -16,3 +16,6 @@ This approach assumes no one, whether inside or outside the network, should be t
 ### Physical and Virtual Firewall Models
 - **Physical Firewalls**: Hardware devices that protect your network from threats.
 - **Virtual Firewalls**: Software-based firewalls that protect cloud environments or virtualized networks. They work like physical firewalls but on virtual machines.
+
+# Repo Artifacta 
+1.Initial Set Up
