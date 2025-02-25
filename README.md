@@ -17,7 +17,7 @@ This approach assumes no one, whether inside or outside the network, should be t
 - **Physical Firewalls**: Hardware devices that protect your network from threats.
 - **Virtual Firewalls**: Software-based firewalls that protect cloud environments or virtualized networks. They work like physical firewalls but on virtual machines.
 
-# Repo Artifacta 
+
 # Palo Alto Fundamentals: Essential Knowledge for a Security Engineer
 
 As a new security engineer learning about Palo Alto Networks firewalls, understanding the fundamentals is crucial. Here’s everything you need to know:
