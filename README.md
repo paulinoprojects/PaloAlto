@@ -1,5 +1,5 @@
 # README
-- This repo contains the PaloAlto Firewall fundamental
+- This repo contains learning material for PaloAlto Firewall basics
 - Start with this README for a general overview of the contents of this repo. 
 
 # Palo Alto Networks Overview
