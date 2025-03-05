@@ -1,3 +1,7 @@
+# README
+- This repo contains the PaloAlto Firewall fundamental
+- Start with this README for a general overview of the contents of this repo. 
+
 # Palo Alto Networks Overview
 - Palo Alto Networks is a global cybersecurity company that provides advanced security solutions to protect networks, data, and users from cyber threats. They offer a wide range of products and services, including: Firewalls, Cloud Security, Endpoint Security, Threat Intelligence.
 
