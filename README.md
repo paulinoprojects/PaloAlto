@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository provides a comprehensive guide to **Palo Alto Networks** firewall solutions, including essential concepts, configurations, and best practices for network security engineers. Whether you're a new network security administrator or an experienced engineer, this guide will help you set up, configure, and maintain Palo Alto firewalls effectively.
+This repository provides a fundamental guide to **Palo Alto Networks** firewall, including essential concepts, configurations, and best practices for network security engineers.
 
 The materials include an overview of Palo Alto's architecture, security policies, logging, troubleshooting tips, and advanced security features. Additionally, the guide introduces key concepts such as **Single-Pass Architecture**, **Zero Trust**, and **Next-Generation Firewalls (NGFWs)**, as well as practical steps for getting hands-on experience with Palo Alto's tools and certifications.
 
@@ -33,7 +33,6 @@ The materials include an overview of Palo Alto's architecture, security policies
 
 ## Learning Path & Certifications
 
-As you gain expertise with Palo Alto firewalls, consider pursuing these certifications:
 - **PCCSA (Associate)**: Foundation-level cybersecurity fundamentals.
 - **PCNSA (Administrator)**: Learn advanced security features and management techniques for network security administration.
 - **PCNSE (Engineer)**: Master the design, deployment, and configuration of Palo Alto networks for enterprise environments.
@@ -47,6 +46,3 @@ As you gain expertise with Palo Alto firewalls, consider pursuing these certific
 
 For additional help, refer to Palo Alto’s [official documentation](https://www.paloaltonetworks.com/resources).
 
-## Conclusion
-
-By following the steps and guidelines in this repository, you’ll be on your way to becoming proficient in Palo Alto firewall management. Get hands-on experience, leverage advanced features, and solidify your knowledge with certifications to advance your career as a network security professional.
